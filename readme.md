@@ -60,3 +60,8 @@ The consensus algorithm ensures that a majority of honest nodes agree on the sta
 
 
 Byzantine fault tolerance is crucial for the security and reliability of blockchain systems. It ensures that the blockchain remains secure and consistent, even in the presence of malicious actors or network failures. Without BFT, the blockchain would be vulnerable to attacks and could become unreliable or inconsistent.
+
+
+# Cryptocurrency (Bitcoin)
+
+Bitcoin is a protocol, i.e, a set of rules that guide how parcipants over network communicate with each other. 
